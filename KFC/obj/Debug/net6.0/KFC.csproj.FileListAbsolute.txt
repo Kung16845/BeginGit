@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\BeginProject\KFC\bin\Debug\net6.0\KFC.exe
+C:\Users\k\Desktop\BeginProject\KFC\bin\Debug\net6.0\KFC.deps.json
+C:\Users\k\Desktop\BeginProject\KFC\bin\Debug\net6.0\KFC.runtimeconfig.json
+C:\Users\k\Desktop\BeginProject\KFC\bin\Debug\net6.0\KFC.dll
+C:\Users\k\Desktop\BeginProject\KFC\bin\Debug\net6.0\KFC.pdb
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.AssemblyInfo.cs
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.dll
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\refint\KFC.dll
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.pdb
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\KFC.genruntimeconfig.cache
+C:\Users\k\Desktop\BeginProject\KFC\obj\Debug\net6.0\ref\KFC.dll
