@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\Final_Program\Program_03\bin\Debug\net6.0\mdt211_2565_final_assets.exe
+C:\Users\k\Desktop\Final_Program\Program_03\bin\Debug\net6.0\mdt211_2565_final_assets.deps.json
+C:\Users\k\Desktop\Final_Program\Program_03\bin\Debug\net6.0\mdt211_2565_final_assets.runtimeconfig.json
+C:\Users\k\Desktop\Final_Program\Program_03\bin\Debug\net6.0\mdt211_2565_final_assets.dll
+C:\Users\k\Desktop\Final_Program\Program_03\bin\Debug\net6.0\mdt211_2565_final_assets.pdb
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.AssemblyInfo.cs
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.dll
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\refint\mdt211_2565_final_assets.dll
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.pdb
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\mdt211_2565_final_assets.genruntimeconfig.cache
+C:\Users\k\Desktop\Final_Program\Program_03\obj\Debug\net6.0\ref\mdt211_2565_final_assets.dll
