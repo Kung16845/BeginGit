@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -15,8 +15,15 @@ class Program
                 if (name == book.Get(i))
                 {
                     Console.WriteLine("Name Same");
-                    name = Console.ReadLine();
-                    
+                    name = Console.ReadLine();                 
+                }
+            }
+            for (int i = 0; i < book.GetLength();i++)
+            {
+                if (name == book.Get(i))
+                {
+                    Console.WriteLine("Name Same");
+                    name = Console.ReadLine();                 
                 }
             }
             if(name == "Exit")
@@ -37,4 +44,5 @@ class Program
             Console.WriteLine(book.Get(i));
         }
     }
+    
 }
